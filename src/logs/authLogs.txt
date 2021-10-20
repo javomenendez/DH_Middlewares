@@ -1,0 +1,11 @@
+Acceso autorizado - User: Ada
+Acceso autorizado - User: Ada
+Acceso NO AUTORIZADO - User: predro
+Acceso NO AUTORIZADO - User: predro
+Acceso autorizado - User: Ada
+Acceso autorizado - User: Greta
+Acceso NO AUTORIZADO - User: Joaquin
+Acceso autorizado - User: Greta
+Acceso autorizado - User: Greta
+Acceso autorizado - User: Greta
+Acceso NO AUTORIZADO - User: Pedro
